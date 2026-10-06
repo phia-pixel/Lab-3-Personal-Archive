@@ -1,0 +1,116 @@
+{
+  "splats": [
+    {
+      "filename": "forest-bridge-over-stream.spz",
+      "transform": {
+        "translation": [
+          0,
+          1.273687720298767,
+          0
+        ],
+        "rotation": [
+          180,
+          0,
+          0
+        ],
+        "quaternion": [
+          1,
+          0,
+          0,
+          6.123233995736766e-17
+        ],
+        "scale": 2.224958896636963
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "filename": "clanker-by-j-toastie---ztktqcknx7glb.glb",
+      "originalFilename": "Clanker by J-Toastie - ZTktQcKNX7.glb",
+      "mimeType": "model/gltf-binary",
+      "transform": {
+        "translation": [
+          5.876,
+          0.164,
+          3.181
+        ],
+        "rotation": [
+          0,
+          26.933239537195053,
+          0
+        ],
+        "quaternion": [
+          0,
+          0.233,
+          0,
+          0.972
+        ],
+        "scale": [
+          0.297,
+          0.297,
+          0.297
+        ]
+      }
+    },
+    {
+      "filename": "macintosh-classic-by-charlie---goejlarwbsglb.glb",
+      "originalFilename": "Macintosh Classic by Charlie - goeJLARWbs.glb",
+      "mimeType": "model/gltf-binary",
+      "transform": {
+        "translation": [
+          5.528,
+          1.789,
+          3.234
+        ],
+        "rotation": [
+          -180,
+          -8.254364027255672,
+          -180
+        ],
+        "quaternion": [
+          0,
+          0.997,
+          0,
+          -0.072
+        ],
+        "scale": [
+          8.952,
+          9.02,
+          8.952
+        ]
+      }
+    },
+    {
+      "filename": "astronaut-by-quaternius---0d54w8yfraglb.glb",
+      "originalFilename": "Astronaut by Quaternius - 0D54W8yfrA.glb",
+      "mimeType": "model/gltf-binary",
+      "transform": {
+        "translation": [
+          3.358,
+          -0.227,
+          -11.326
+        ],
+        "rotation": [
+          0,
+          6.302633693287996,
+          0
+        ],
+        "quaternion": [
+          0,
+          0.055,
+          0,
+          0.998
+        ],
+        "scale": [
+          0.384,
+          0.384,
+          0.384
+        ]
+      }
+    }
+  ],
+  "metadata": {
+    "exportTimestamp": "2026-10-06T15:15:03.020Z",
+    "spzExportVersion": 3
+  }
+}
