@@ -112,5 +112,72 @@
   "metadata": {
     "exportTimestamp": "2026-10-06T15:15:03.020Z",
     "spzExportVersion": 3
-  }
+  },
+  "audio": [
+    {
+      "id": "02efe0b9-3d7c-4881-974c-ff4eff77fc8e",
+      "filename": "audio-02efe0b9-3d7c-4881-974c-ff4eff77fc8e.mp3",
+      "name": "bbc_electronic_07014116.mp3",
+      "position": [
+        5.51748792308176,
+        2.210305536912386,
+        3.0529784231093187
+      ],
+      "loop": true,
+      "volume": 0.58,
+      "color": 14876565
+    },
+    {
+      "id": "60cca353-ec9e-43a7-8ebc-7b3b4c6af92f",
+      "filename": "audio-60cca353-ec9e-43a7-8ebc-7b3b4c6af92f.mp3",
+      "name": "bbc_scottish-c_nhu0510409.mp3",
+      "position": [
+        0.41977109448843386,
+        -0.036819253201084035,
+        -1.8983055989418611
+      ],
+      "loop": true,
+      "volume": 1,
+      "color": 12844949
+    },
+    {
+      "id": "17e12bc2-6b18-4fbb-af25-1355b61fd3da",
+      "filename": "audio-17e12bc2-6b18-4fbb-af25-1355b61fd3da.mp3",
+      "name": "bbc_electronic_07043244.mp3",
+      "position": [
+        3.3820544953836644,
+        0.5629025875494222,
+        -11.254292403639713
+      ],
+      "loop": true,
+      "volume": 0.6,
+      "color": 16750001
+    },
+    {
+      "id": "f142e9ba-6023-4b58-9d16-46ef73fa2184",
+      "filename": "audio-f142e9ba-6023-4b58-9d16-46ef73fa2184.mp3",
+      "name": "bbc_fast-flowi_nhu0510424.mp3",
+      "position": [
+        -0.29514487122965694,
+        -1.159343030422073,
+        -7.515565081894875
+      ],
+      "loop": true,
+      "volume": 0.51,
+      "color": 16770453
+    },
+    {
+      "id": "d2b913b0-1609-4edc-9f47-1ed2fc8ff19b",
+      "filename": "audio-d2b913b0-1609-4edc-9f47-1ed2fc8ff19b.mp3",
+      "name": "bbc_fast-flowi_nhu0510424.mp3",
+      "position": [
+        4.415730392866841,
+        -0.9463516262812701,
+        -3.0340173513508013
+      ],
+      "loop": true,
+      "volume": 0.51,
+      "color": 9830376
+    }
+  ]
 }
